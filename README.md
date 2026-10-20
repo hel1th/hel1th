@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Antygin Vladimir</h1>
-<h3 align="center">Student of the faculty "Computer science and applied mathematics" at Moscow Aviation Institute Develop in backend development</h3>
+<h3 align="center">Hi 👋, I'm Antygin Vladimir</h3>
+👩🏻‍💻 Software Backend Go Engineer 
+👩🏻‍🎓 Study Computer Science at the Moscow Aviation Institute
+💭 Currently learning about observability and distibuted systems
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
