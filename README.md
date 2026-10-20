@@ -20,7 +20,7 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=postgresql,redis,clickhouse"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Observability</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Deploy</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=docker,nginx,kubernetes,grafana,prometheus"/></td>
     </tr>
     <tr>
