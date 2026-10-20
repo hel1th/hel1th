@@ -1,7 +1,7 @@
 <h3 align="center">Hi 👋, I'm Antygin Vladimir</h3>
-👩🏻‍💻 Software Backend Go Engineer 
-👩🏻‍🎓 Study Computer Science at the Moscow Aviation Institute
-💭 Currently learning about observability and distibuted systems
+👩🏻‍💻 Software Backend Go Engineer<br/>
+👩🏻‍🎓 Study Computer Science at the Moscow Aviation Institute<br/>
+💭 Currently learning about observability and distibuted systems<br/>
 
 
 ------
